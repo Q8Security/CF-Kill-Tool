@@ -1,16 +1,4 @@
 
-  
-  ░██████  ░██████████        ░██     ░██ ░██░██ ░██ 
- ░██   ░██ ░██                ░██    ░██     ░██ ░██ 
-░██        ░██                ░██   ░██   ░██░██ ░██ 
-░██        ░█████████ ░██████ ░███████    ░██░██ ░██ 
-░██        ░██                ░██   ░██   ░██░██ ░██ 
- ░██   ░██ ░██                ░██    ░██  ░██░██ ░██ 
-  ░██████  ░██                ░██     ░██ ░██░██ ░██ 
-                                                                                                                                                                                             
-## By : Q8 - Security 
-## Mail : LS@Hotmail.com
-
 
 # CF-Kill
 
@@ -28,32 +16,6 @@ A powerful, clean, and professional Python tool designed to discover the real or
 - Clean professional output
 - Filters out fake IPs (including 1.x.x.x ranges)
 
-## Methods Used
-
-### High Confidence
-- SPF (ip4 records)
-- MX records
-- Direct A record
-
-### Medium Confidence
-- crt.sh Certificate Transparency
-- RapidDNS
-- HackerTarget
-- ViewDNS
-- SecurityTrails
-- AlienVault OTX
-- ThreatCrowd
-- DNSDumpster
-- URLScan
-
-### Low Confidence
-- Subdomain Brute-force
-- Wayback Machine
-- DNS History
-- NS Records
-- Robtex
-
-## Installation
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/CF-Kill.git
