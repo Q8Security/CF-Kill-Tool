@@ -18,7 +18,7 @@ A powerful, clean, and professional Python tool designed to discover the real or
 
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CF-Kill.git
+git clone https://github.com/Q8Security/CF-Kill-Tool.git
 cd CF-Kill
 pip3 install -r requirements.txt
 
